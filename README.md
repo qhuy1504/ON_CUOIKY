@@ -24,7 +24,7 @@ npx expo install react-dom react-native-web @expo/metro-runtime
    npm install axios
    npm install react-native-image-picker
 
-TẠO MÔI TRƯỜNG NODE JS ĐỂ TẠO SERVER
+2 TẠO MÔI TRƯỜNG NODE JS ĐỂ TẠO SERVER
 
 1. mkdir backend
 
