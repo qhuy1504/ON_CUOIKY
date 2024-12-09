@@ -29,7 +29,7 @@ cd backend
 
 npm init -y
 
-2. npm install express cors multer
+2. npm install express cors multer mysql
 3. node server.js
 
 XEM IP
