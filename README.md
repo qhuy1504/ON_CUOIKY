@@ -22,7 +22,9 @@ npx expo install react-dom react-native-web @expo/metro-runtime
    npm install @react-navigation/native @react-navigation/stack react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
    npm install react-native-vector-icons
    npm install axios
-   npm install react-native-image-picker
+   npm install react-native-image-picker @react-native-picker/picker react-datepicker
+
+
 
 2 TẠO MÔI TRƯỜNG NODE JS ĐỂ TẠO SERVER
 
